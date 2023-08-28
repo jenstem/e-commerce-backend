@@ -68,7 +68,7 @@ This app is meant to help the user quickly and easily update an e-commerce site'
 *This is a screenshot of how a POST looks in Insomnia*
 ##
 
-![Watch the video!](https://youtu.be/3DmoPdavAnE) <br>
+[Watch the video!](https://youtu.be/3DmoPdavAnE) <br>
 *This is the walk through video*
 ##
 
