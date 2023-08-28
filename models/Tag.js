@@ -1,14 +1,14 @@
+// Sequelize library
 const { Model, DataTypes } = require('sequelize');
-
+// Database connection
 const sequelize = require('../config/connection.js');
 
 class Tag extends Model {}
 
+// Tag model rules
 Tag.init(
   {
-    // define columns
     id: {
-      // define columns
         type: DataTypes.INTEGER,
         allowNull: false,
         primaryKey: true,
